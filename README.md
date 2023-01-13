@@ -1,5 +1,6 @@
 # Asp .Net Core 6 HangFire
-HANGFIRE Implement
+**HANGFIRE Implement**
+
 Hangfire da birden fazla server vardır. Bu sayede bir makinanın üzerinde birden fazla server çalıştırabilirken clustered yapıyı da destekliyor. Böylelikle her makinada birer tane hangfire server ayağa kaldırarak yükümüzü dengeleyebiliriz.
 Job storage kısımlarında da database ya da redis kullanırız. Ya da in memory cache ler vardır. 
 Job Types: 
@@ -10,8 +11,8 @@ Continuations : Daha önce tetiklenen jobs id baz alıp devamında kendisine ait
 Batch (Pro)
 Batch Continuations (Pro)
 
-		HANGFIRE Implement STEPS
-  
+**HANGFIRE Implement STEPS**
+
 Hangfire.AspNetCore ve Hangfire.SqlServer paketleri yüklendi.
 Program.cs de eklenecek kodlar öncelikle build’den önce:
 builder.Services.AddHangfire(a => 
