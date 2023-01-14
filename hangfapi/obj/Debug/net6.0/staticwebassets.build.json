@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RcGb97PTYlrrA4B1x5dVLTS21XuKqdPsPYg46up2PHo=",
+  "Source": "hangfapi",
+  "BasePath": "_content/hangfapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

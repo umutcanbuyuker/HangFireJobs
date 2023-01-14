@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Huawei\\Desktop\\HangfireProject.NetCore6\\HangfireProject\\HangfireProject.csproj": {}
+    "C:\\Users\\Huawei\\Desktop\\Hangfire.net\\HangFireJobs\\HangfireProject\\HangfireProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Huawei\\Desktop\\HangfireProject.NetCore6\\HangfireProject\\HangfireProject.csproj": {
+    "C:\\Users\\Huawei\\Desktop\\Hangfire.net\\HangFireJobs\\HangfireProject\\HangfireProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\HangfireProject.NetCore6\\HangfireProject\\HangfireProject.csproj",
+        "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\Hangfire.net\\HangFireJobs\\HangfireProject\\HangfireProject.csproj",
         "projectName": "HangfireProject",
-        "projectPath": "C:\\Users\\Huawei\\Desktop\\HangfireProject.NetCore6\\HangfireProject\\HangfireProject.csproj",
+        "projectPath": "C:\\Users\\Huawei\\Desktop\\Hangfire.net\\HangFireJobs\\HangfireProject\\HangfireProject.csproj",
         "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Huawei\\Desktop\\HangfireProject.NetCore6\\HangfireProject\\obj\\",
+        "outputPath": "C:\\Users\\Huawei\\Desktop\\Hangfire.net\\HangFireJobs\\HangfireProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

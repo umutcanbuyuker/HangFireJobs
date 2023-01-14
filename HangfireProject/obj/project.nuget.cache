@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2j1Q1mqK0KRo01WlyueMie235O6fcFznlrVCcxcsaNc11m3yH0SNAD8Bdp+csWFQD2szWp5fZtLay4U9pwN51A==",
+  "dgSpecHash": "0CFU2dhmXYblODsl8iMdhKWNgPJL6bI4YIJj0jnvckplts+n6eSiVCItGuCq96+okWCs4bLEB80CHxBI2oHAgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\HangfireProject.NetCore6\\HangfireProject\\HangfireProject.csproj",
+  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\Hangfire.net\\HangFireJobs\\HangfireProject\\HangfireProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huawei\\.nuget\\packages\\hangfire.aspnetcore\\1.7.32\\hangfire.aspnetcore.1.7.32.nupkg.sha512",
     "C:\\Users\\Huawei\\.nuget\\packages\\hangfire.core\\1.7.32\\hangfire.core.1.7.32.nupkg.sha512",

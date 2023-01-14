@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "On79udpgiCY6ZOQ9jcHLJtWDeBhebA4AqI2G/tJlg47dZBAGwp3SBC/4e9GwOO/eFUf/EsWtUySLkPk+acl8uw==",
+  "dgSpecHash": "5xeYxSNjXEU8AYJqDCK3Eh+OTJeyoiQ+scS3PBGTxus9rGGAvSeEWAeM32X4rjTV0afAPS1sqzXIJqptI50Bhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\HangfireProject.NetCore6\\CronJobUygulaması\\CronJobUygulaması.csproj",
+  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\Hangfire.net\\HangFireJobs\\CronJobUygulaması\\CronJobUygulaması.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huawei\\.nuget\\packages\\hangfire.aspnetcore\\1.7.32\\hangfire.aspnetcore.1.7.32.nupkg.sha512",
     "C:\\Users\\Huawei\\.nuget\\packages\\hangfire.core\\1.7.32\\hangfire.core.1.7.32.nupkg.sha512",
